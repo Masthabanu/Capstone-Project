@@ -42,7 +42,7 @@ The dataset was cleaned, structured, and transformed into a star schema model to
 - Sales trends fluctuate across months, indicating seasonal patterns  
 - Revenue and quantity trends provide insight into overall demand patterns.
 
-**Dashboard Preview:**
+**Dashboard Preview:**  
 <img src="Dashboard.png" width="800">
 
 **Conclusion:**  
