@@ -7,7 +7,7 @@ The dataset was cleaned, structured, and transformed into a star schema model to
 **Project Objectives:**  
 - Analyze overall sales performance of the e-commerce business  
 - Identify top-performing products and categories  
-- Understand regional sales distribution  
+- Understand regional sales distribution   
 - Compare revenue and quantity trends  
 - Provide interactive filtering to explore business insights dynamically.
 
