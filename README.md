@@ -45,3 +45,7 @@ Revenue and quantity trends provide insight into overall demand patterns.
 
 **Dashboard Preview:**
 <img src="Dashboard.png" width="800">
+
+**Conclusion:**
+
+This project demonstrates the ability to clean and structure data and build an interactive dashboard that provides meaningful business insights for sales performance evaluation.
