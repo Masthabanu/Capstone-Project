@@ -24,7 +24,8 @@ The dataset was cleaned, structured, and transformed into a star schema model to
 - Revenue vs Quantity   
 - Monthly Sales Trend  
 - Sales by Region  
-- Sales by Category  
+- Sales by Category
+- Loyalty level Vs Revenue
 - Top 5 Products by Revenue  
 - Sales by Store Type
 
