@@ -30,10 +30,8 @@ The dataset was cleaned, structured, and transformed into a star schema model to
 
 **Interactive slicers allow filtering by:**  
 - Region  
-- Category  
 - Store Type  
-- Loyalty Level  
-- Payment Type
+- Gender
 
 **Key Insights:**  
 
