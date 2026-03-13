@@ -1,4 +1,4 @@
-# E - Commerce Sales Performance Dashboard
+# E-Commerce Sales Performance Dashboard
 
 **Project Overview:**  
 This project focuses on analyzing an E-Commerce sales dataset to evaluate business performance and identify key sales trends.
