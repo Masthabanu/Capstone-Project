@@ -5,35 +5,35 @@ This project focuses on analyzing an E-Commerce sales dataset to evaluate busine
 The dataset was cleaned, structured, and transformed into a star schema model to support efficient analysis. Using Excel dashboards, the project visualizes revenue patterns, product performance, and regional sales distribution to support data-driven decision-making.
 
 **Project Objectives:**  
-Analyze overall sales performance of the e-commerce business  
-Identify top-performing products and categories  
-Understand regional sales distribution  
-Compare revenue and quantity trends  
-Provide interactive filtering to explore business insights dynamically.
+- Analyze overall sales performance of the e-commerce business  
+- Identify top-performing products and categories  
+- Understand regional sales distribution  
+- Compare revenue and quantity trends  
+- Provide interactive filtering to explore business insights dynamically.
 
 **Tools and Technologies Used:**  
-Microsoft Excel  
-Pivot Tables and Pivot Charts  
-Interactive Slicers  
-Dashboard Visualization Techniques
+- Microsoft Excel  
+- Pivot Tables and Pivot Charts  
+- Interactive Slicers  
+- Dashboard Visualization Techniques
 
 **Dashboard Features:**  
 
 **The interactive Excel dashboard includes the following visualizations:**  
 
-Revenue vs Quantity   
-Monthly Sales Trend  
-Sales by Region  
-Sales by Category  
-Top 5 Products by Revenue  
-Sales by Store Type
+- Revenue vs Quantity   
+- Monthly Sales Trend  
+- Sales by Region  
+- Sales by Category  
+- Top 5 Products by Revenue  
+- Sales by Store Type
 
 **Interactive slicers allow filtering by:**  
-Region  
-Category  
-Store Type  
-Loyalty Level  
-Payment Type
+- Region  
+- Category  
+- Store Type  
+- Loyalty Level  
+- Payment Type
 
 **Key Insights:**  
 
