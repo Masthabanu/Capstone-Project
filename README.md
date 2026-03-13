@@ -37,11 +37,11 @@ The dataset was cleaned, structured, and transformed into a star schema model to
 
 **Key Insights:**  
 
-Certain regions contribute significantly more revenue compared to others  
-A small number of top products generate a large share of total sales  
-Product categories show varying performance levels across the dataset  
-Sales trends fluctuate across months, indicating seasonal patterns  
-Revenue and quantity trends provide insight into overall demand patterns.
+- Certain regions contribute significantly more revenue compared to others  
+- A small number of top products generate a large share of total sales  
+- Product categories show varying performance levels across the dataset  
+- Sales trends fluctuate across months, indicating seasonal patterns  
+- Revenue and quantity trends provide insight into overall demand patterns.
 
 **Dashboard Preview:**
 <img src="Dashboard.png" width="800">
