@@ -1,8 +1,7 @@
 # E-Commerce Sales Performance Dashboard
 
 **Project Overview:**  
-This project focuses on analyzing an E-Commerce sales dataset to evaluate business performance and identify key sales trends.
-The dataset was cleaned, structured, and transformed into a star schema model to support efficient analysis. Using Excel dashboards, the project visualizes revenue patterns, product performance, and regional sales distribution to support data-driven decision-making.
+This project analyzes an E-Commerce sales dataset to evaluate business performance and identify key sales trends. The dataset was cleaned, structured, and transformed into a star schema data model to support efficient analysis. Using Excel dashboards, the project visualizes revenue patterns, product performance,   and regional sales distribution to support data-driven decision-making.
 
 **Project Objectives:**  
 - Analyze overall sales performance of the e-commerce business  
